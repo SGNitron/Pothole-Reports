@@ -1,1 +1,1 @@
-# Pothole-Reports
+The following program prompts the user to choose either an array based implementation or a link based implementation. The program checks if the bag is empty and the user is then prompted if they want to enter any potholes they would like to report. They enter the latitude and longitude in which the program checks the bag to see if those coordinates are recorded or not. After examining the bag, the program will continue to run until the user has no more potholes to report.
